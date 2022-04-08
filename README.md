@@ -11,7 +11,7 @@ Please head to the [Issues](https://github.com/7thbeat/adofai/issues) page to su
 
 ## Useful Links
 
-* [Rhythm Docto Lounge](https://discord.com/invite/rhythmdr)
+* [Rhythm Doctor Lounge](https://discord.com/invite/rhythmdr)
 * [Verified Artists' List](https://7thbe.at/verified-artists/adofai)
 * [Artist Permission Guide](https://7bg.notion.site/278aa02ea60c41549641e75c0b69ba34)
 * [User-Generated Content Rules](https://7bg.notion.site/73c8224a3876404799203faf7b1a818f)
