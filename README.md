@@ -15,7 +15,7 @@ Please head to the [Issues](https://github.com/7thbeat/adofai/issues) page to su
 * [Verified Artists' List](https://7thbe.at/verified-artists/adofai)
 * [Artist Permission Guide](https://7bg.notion.site/278aa02ea60c41549641e75c0b69ba34)
 * [User-Generated Content Rules](https://7bg.notion.site/73c8224a3876404799203faf7b1a818f)
-* [ADOFAI Desktop Tech Problems](https://docs.google.com/document/d/1ibs3zI6jMA91EQ-PmJU68hP8Jhs1wtDeJNWu6kdcz_4/) (Will be implanted to wiki later)
+* [ADOFAI Desktop Tech Problems FAQ](https://docs.google.com/document/d/1ibs3zI6jMA91EQ-PmJU68hP8Jhs1wtDeJNWu6kdcz_4/) (Will be implanted to wiki later)
 
 ## Contact
 
