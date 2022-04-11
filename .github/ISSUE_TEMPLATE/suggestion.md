@@ -2,7 +2,7 @@
 name: Suggestion
 about: Want to suggest something?
 title: "[Suggestion] "
-labels: Needs triage, Suggestion
+labels: 'Meta: Needs triage, Suggestion'
 assignees: ''
 
 ---

@@ -2,7 +2,7 @@
 name: 버그 보고
 about: 무언가가 이상한가요?
 title: "[버그] "
-labels: Bug, Korean, Needs triage
+labels: 'Bug, Lang: Korean, Meta: Needs triage'
 assignees: authop
 
 ---

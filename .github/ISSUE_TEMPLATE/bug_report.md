@@ -2,7 +2,7 @@
 name: Bug report
 about: Something isn't working as intended?
 title: "[Bug] "
-labels: Bug, Needs triage
+labels: 'Bug, Meta: Needs triage'
 assignees: ''
 
 ---

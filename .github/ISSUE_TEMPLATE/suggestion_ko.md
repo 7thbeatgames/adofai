@@ -2,7 +2,7 @@
 name: 기능 제안
 about: 제안이 있으신가요?
 title: "[제안] "
-labels: Korean, Needs triage, Suggestion
+labels: 'Lang: Korean, Meta: Needs triage, Suggestion'
 assignees: authop
 
 ---
