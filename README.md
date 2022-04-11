@@ -1,4 +1,6 @@
-# 7th Beat Games ADOFAI Issue Tracker
+# A Dance of Fire and Ice Issue Tracker
+
+A Dance of Fire and Ice is a strict rhythm game. Keep your focus as you guide two orbiting planets along a winding path without breaking their perfect equilibrium.
 
 This tracker is our best effort to track the community's needs and requests.
 
@@ -11,7 +13,8 @@ Please head to the [Issues](https://github.com/7thbeat/adofai/issues) page to su
 
 ## Useful Links
 
-* [Rhythm Doctor Lounge](https://discord.com/invite/rhythmdr)
+* [7th Beat Games Webpage](https://7thbe.at)
+* [Rhythm Doctor Lounge (Discord)](https://discord.com/invite/rhythmdr)
 * [Verified Artists' List](https://7thbe.at/verified-artists/adofai)
 * [Artist Permission Guide](https://7bg.notion.site/278aa02ea60c41549641e75c0b69ba34)
 * [User-Generated Content Rules](https://7bg.notion.site/73c8224a3876404799203faf7b1a818f)
