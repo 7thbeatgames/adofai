@@ -1,7 +1,7 @@
 ---
 name: Suggestion
 about: Want to suggest something?
-title: "[Suggestion] "
+title: ""
 labels: 'Meta: Needs triage, Suggestion'
 assignees: ''
 

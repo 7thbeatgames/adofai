@@ -1,9 +1,9 @@
 ---
 name: 기능 제안
 about: 제안이 있으신가요?
-title: "[제안] "
-labels: 'Lang: Korean, Meta: Needs triage, Suggestion'
-assignees: authop
+title: ""
+labels: 'Meta: Needs triage, Suggestion'
+assignees: ''
 
 ---
 
@@ -12,6 +12,12 @@ assignees: authop
 먼저 [열린 이슈](https://github.com/7thbeatgames/adofai/issues?q=is%3Aissue+is%3Aopen)를 검색하여 이미 다른 사람이 관련 이슈를 제출했는지 확인해보세요.
 
 해당 이슈가 중복되었다면 관리자는 제출한 이슈를 종료 처리하게 됩니다. 중복된 이슈를 새로 만드는 대신, 다른 사람이 제출한 이슈에 👍 이모트를 달아주세요. 검색을 해도 찾아볼 수 없었다면 새로운 이슈를 제출하셔도 됩니다.
+
+### 한국어 안내
+
+비록 한국어를 지원 대상에 포함하고 있기는 하나, 개발자들은 영어를 표준으로 쓰고 있습니다. 때문에 개발자들은 대부분 기계 번역으로 한국어 이슈를 접하게 됩니다.
+
+한국어로 이슈를 제출한다면 의사 소통이 다소 원활하지 않을 수 있으니 양해를 부탁드립니다.
 
 ---
 
