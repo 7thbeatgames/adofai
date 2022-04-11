@@ -1,9 +1,16 @@
 ---
 name: Bug report
-about: Something isn't work as intended?
-title: ''
-labels: ''
+about: Something isn't working as intended?
+title: "[Bug] "
+labels: Needs triage
 assignees: ''
+
+---
+
+### Search First!
+Please search in [open issues](https://github.com/7thbeatgames/adofai/issues?q=is%3Aissue+is%3Aopen) to see if your issue or request has already been filed.
+
+Your issue will be closed if maintainers find it is a duplicate. Please upvote previously reported issues, instead of creating a new one. If your issue isn't submitted before, you are good to write a new one.
 
 ---
 
