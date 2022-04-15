@@ -14,14 +14,17 @@ Your issue will be closed if maintainers find it is a duplicate. Please upvote p
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
+### Current Issue
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
-**Describe the solution you'd like**
+### Solution
 A clear and concise description of what you want to happen.
 
-**Describe alternatives you've considered**
+### Alternatives
 A clear and concise description of any alternative solutions or features you've considered.
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+### Screenshot / Videos / Crash Report
+Optional: Attach an image or short video, or a ZIP file
+
+### Notes
+Add any other information about the problem here.
