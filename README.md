@@ -13,12 +13,11 @@ Please head to the [Issues](https://github.com/7thbeat/adofai/issues) page to su
 
 ## Useful Links
 
-* [7th Beat Games Webpage](https://7thbe.at)
-* [Rhythm Doctor Lounge (Discord)](https://discord.com/invite/rhythmdr)
+* [7th Beat Games web page](https://7thbe.at)
+* [7th Beat Games Knowledge Base](https://7thbeat.notion.site/7BG-Knowledge-Base-d1f6dcc1c792418fa6a7008ebee8519f)
+* [A Dance of Fire and Ice Technical FAQ](https://7thbeat.notion.site/ADOFAI-Technical-Problems-FAQ-4ecf7f7455ea486495692594533f7402)
 * [Verified Artists' List](https://7thbe.at/verified-artists/adofai)
-* [Artist Permission Guide](https://7bg.notion.site/278aa02ea60c41549641e75c0b69ba34)
-* [User-Generated Content Rules](https://7bg.notion.site/73c8224a3876404799203faf7b1a818f)
-* [ADOFAI Desktop Tech Problems FAQ](https://docs.google.com/document/d/1ibs3zI6jMA91EQ-PmJU68hP8Jhs1wtDeJNWu6kdcz_4/) (Will be implanted to wiki later)
+* [Rhythm Doctor Lounge (Fan Discord)](https://discord.com/invite/rhythmdr)
 
 ## Contact
 
@@ -28,7 +27,8 @@ While most of our developers are staying on Discord 24/7, you can use the email 
 * `auth (at) 7thbe.at`: Verified Artists, Steam Workshop, Any Korean Inquiries.
 
 For confidential, please use this PGP key.
-```
+
+```text
 auth <auth (at) 7thbe.at>
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
