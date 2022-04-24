@@ -1,0 +1,102 @@
+name: Bug report
+description: Something isn't working as intended?
+labels: [Bug, "Meta: Needs triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ### Before You Proceed
+        
+        Please search in [open issues](https://github.com/7thbeatgames/adofai/issues?q=is%3Aissue+is%3Aopen) to see if your issue or request has already been filed.
+        
+        Your issue will be closed if maintainers find it is a duplicate. Please upvote previously reported issues, instead of creating a new one.
+
+        ### See Our FAQ
+
+        There might be answers you seek in our [Technical Problems FAQ](https://7thbeat.notion.site/ADOFAI-Technical-Problems-FAQ-4ecf7f7455ea486495692594533f7402).
+  - type: checkboxes
+    attributes:
+      label: Is there an existing issue for this?
+      description: Please search to see if an issue already exists for the bug you encountered.
+      options:
+        - label: I searched for the issues, and made sure there were no duplicates.
+          required: true
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: Please briefly describe the bug. Try to summarize the problem in minimum words yet in an effective way.
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: You may find the version info at the bottom of the main menu.
+      placeholder: e.g. v0.11.3 (r23)
+    validations:
+      required: true
+  - type: input
+    id: os
+    attributes:
+      label: Operating System (OS)
+      description: What OS are you using?
+      placeholder: e.g. Windows 11 / macOS Monterey (M1/Intel) / iOS / Android / etc.
+    validations:
+      required: true
+  - type: input
+    id: platform
+    attributes:
+      label: Platform
+      description: What platform are you using?
+      placeholder: e.g. Steam / itch.io / App Store / Play Store / etc.
+    validations:
+      required: true
+  - type: input
+    id: deviceInfo
+    attributes:
+      label: Device Info
+      description: What device are you using?
+      placeholder: e.g. iPhone 13 / Samsung Galaxy Note 22 / etc.
+    validations:
+      required: false
+  - type: textarea
+    id: stepsToReproduce
+    attributes:
+      label: Steps to Reproduce
+      description: Please describe how to reproduce this bug.
+      placeholder: |
+        1. Step 1
+        2. Step 2
+        3. Step 3
+        4. See Error
+    validations:
+      required: true
+  - type: textarea
+    id: expectedBehavior
+    attributes:
+      label: Expected Behavior
+      description: Please describe what you expected to happen.
+    validations:
+      required: true
+  - type: textarea
+    id: observedBehavior
+    attributes:
+      label: Observed Behavior
+      description: Please describe what actually happened.
+    validations:
+      required: true
+  - type: input
+    id: reproductionRate
+    attributes:
+      label: Reproduction Rate
+      description: How often the bug happens when you try to reproduce it?
+      placeholder: e.g. 100%, 33%, rarely, etc.
+  - type: textarea
+    attributes:
+      label: Anything else?
+      description: |
+        Please give us more context about the issue you encountered, such as screenshots, videos, and log files.
+        You can attach images or log files by clicking this area to highlight it and then dragging files in. 
+        
+        You may open the log path by pressing [Ctrl + Shift + L] on the game screen.

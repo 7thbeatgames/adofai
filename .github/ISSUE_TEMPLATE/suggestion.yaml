@@ -1,0 +1,59 @@
+name: Suggestion
+description: Want to suggest something?
+labels: [Suggestion, "Meta: Needs triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ### Before You Proceed
+        
+        Please search in [open issues](https://github.com/7thbeatgames/adofai/issues?q=is%3Aissue+is%3Aopen) to see if your issue or request has already been filed.
+        
+        Your issue will be closed if maintainers find it is a duplicate. Please upvote previously reported issues, instead of creating a new one.
+
+        ### See Our FAQ
+
+        There might be answers you seek in our [Technical Problems FAQ](https://7thbeat.notion.site/ADOFAI-Technical-Problems-FAQ-4ecf7f7455ea486495692594533f7402).
+
+        ### Terms
+
+        7th Beat Games may in connection with any of its products or services freely use, copy, disclose, license, distribute and exploit any Suggestion in any manner without any obligation, royalty, or restriction based on intellectual property rights or otherwise.
+        
+        7th Beat Games reserves the right to independently use, develop, evaluate, or market products or services, whether incorporating Suggestion or otherwise. If you do not agree, do not submit the Suggestion.
+  - type: checkboxes
+    attributes:
+      label: Please Check
+      options:
+        - label: I searched for the issues, and made sure there were no duplicates.
+          required: true
+        - label: I agree the terms, and understand that my suggestion is not guaranteed to be added or addressed.
+          required: true
+  - type: textarea
+    id: currentIssue
+    attributes:
+      label: What is your suggestion? What problem motivated you to submit the suggestion?
+      description: Please provide a clear and concise description of what the problem is.
+    validations:
+      required: true
+  - type: textarea
+    id: suggestedSolution
+    attributes:
+      label: Solution
+      description: Please provide a clear and concise description of what you want to happen.
+    validations:
+      required: true
+  - type: textarea
+    id: alternative
+    attributes:
+      label: Alternatives & Workarounds
+      description: What have you tried to solve the problem?
+  - type: textarea
+    id: demo
+    attributes:
+      label: Demo & Mockup
+      description: Please attach image or video to demonstrate your suggestion.
+  - type: textarea
+    id: note
+    attributes:
+      label: Note
+      description: Please write any other comments about this suggestion.

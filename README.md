@@ -13,7 +13,7 @@ Please head to the [Issues](https://github.com/7thbeat/adofai/issues) page to su
 
 ## Useful Links
 
-* [7th Beat Games web page](https://7thbe.at)
+* [7th Beat Games Website](https://7thbe.at)
 * [7th Beat Games Knowledge Base](https://7thbeat.notion.site/7BG-Knowledge-Base-d1f6dcc1c792418fa6a7008ebee8519f)
 * [A Dance of Fire and Ice Technical FAQ](https://7thbeat.notion.site/ADOFAI-Technical-Problems-FAQ-4ecf7f7455ea486495692594533f7402)
 * [Verified Artists' List](https://7thbe.at/verified-artists/adofai)
