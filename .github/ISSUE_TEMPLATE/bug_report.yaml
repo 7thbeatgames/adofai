@@ -32,8 +32,8 @@ body:
     id: version
     attributes:
       label: Version
-      description: You may find the version info at the bottom of the main menu.
-      placeholder: e.g. v0.11.3 (r23)
+      description: You may find the version info at the bottom of the pause menu.
+      placeholder: e.g. v1.15.5 (r85)
     validations:
       required: true
   - type: input
