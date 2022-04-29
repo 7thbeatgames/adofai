@@ -21,6 +21,12 @@ body:
       options:
         - label: I searched for the issues, and made sure there were no duplicates.
           required: true
+  - type: input
+    id: contactInfo
+    attributes:
+      label: Contact Information
+      description: Please provide the best way to contact you if we have further questions.
+      placeholder: e.g. Discord tag, Email address, Twitter Handle, etc.
   - type: textarea
     id: summary
     attributes:
