@@ -21,6 +21,8 @@ labels: 'Bug, Meta: Needs triage, Lang: Korean'
 
 [자주 묻는 질문](https://7thbeat.notion.site/ADOFAI-8dc4ef47b27d465cb90c792a51ccb543) 페이지에 답변이 이미 있을 수도 있습니다.
 
+이 줄을 포함한 상단의 모든 내용을 삭제한 후 이슈를 작성해주시기 바랍니다.
+
 ---
 
 ### 요약
