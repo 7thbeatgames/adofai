@@ -7,19 +7,17 @@ body:
       value: |
         ### Before You Proceed
         
-        Please search in [issues](https://github.com/7thbeatgames/adofai/issues) to see if your issue or request has already been filed.
-        
-        Your issue will be closed if maintainers find it is a duplicate. Please upvote previously reported issues, instead of creating a new one.
-
-        ### See Our FAQ
-
-        There might be answers you seek in our [Technical Problems FAQ](https://7thbeat.notion.site/ADOFAI-Technical-Problems-FAQ-4ecf7f7455ea486495692594533f7402).
+        - Please search in [issues](https://github.com/7thbeatgames/adofai/issues) to see if your issue or request has already been filed. Please upvote previously reported issues, instead of creating a new one.
+        - There might be answers you seek in our [Technical Problems FAQ](https://7thbeat.notion.site/ADOFAI-Technical-Problems-FAQ-4ecf7f7455ea486495692594533f7402).
+        - We cannot help with all issues caused by mods developed by third parties. Please report mod issues to the respective mod developers.
   - type: checkboxes
     attributes:
-      label: Is there an existing issue for this?
-      description: Please search to see if an issue already exists for the bug you encountered.
+      label: Please Check
+      description: Please make sure you have followed the steps below. 
       options:
         - label: I searched for the issues, and made sure there were no duplicates.
+          required: true
+        - label: I've deleted all the mods and confirmed the issue persists.
           required: true
   - type: input
     id: contactInfo
